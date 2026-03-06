@@ -611,7 +611,6 @@ margin-bottom: 17px;
 #lookbook{
   width:100%;
   overflow:hidden;
-  padding:120px 0;
 }
 
 .carousel{
@@ -635,7 +634,7 @@ margin-bottom: 17px;
   object-fit:cover;
 }
 
-.active{
+.slide.active{
   width:560px;
   height:720px;
   transform:translate(-50%,-50%);

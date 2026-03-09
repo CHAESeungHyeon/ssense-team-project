@@ -179,12 +179,12 @@
   height: 469px;
   position: relative;
   background: #fff;
-  transition: box-shadow 0.3s ease;
+  transition: 0.5s;
   cursor: pointer;
 }
 
 .product-card:hover {
-  box-shadow: 4px 4px 4px rgba(0,0,0,0.25);
+  transform: scale(1.05);
 }
 
 .product-img {

@@ -49,6 +49,7 @@ img {
 }
 body{
   font-family: 'optima', 'jeju';
+  overflow-x: hidden;
 }
 
 button{

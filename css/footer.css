@@ -1,13 +1,13 @@
 #footer{
   width: 100%;
-  max-width: 1920px;
   background: #f8f8f8;
 }
 #footer .container{
   margin: auto;
-  width: 1200px;
   display: flex;
   position: relative;
+  width: 100%;
+  max-width: 1200px;
 }
 #footer .container .sns{
   position: absolute;

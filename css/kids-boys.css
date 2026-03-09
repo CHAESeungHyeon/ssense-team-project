@@ -149,7 +149,6 @@
 }
 
 .cards .card-txt-price span {
-  font-family: 'suit', sans-serif;
   font-weight: 500;
   font-size: 20px;
   color: #111;
@@ -160,7 +159,6 @@
 }
 
 .cards .card-txt-num span {
-  font-family: 'pretendard', sans-serif;
   font-size: 16px;
   color: rgba(17, 17, 17, 0.7);
 }
@@ -282,7 +280,6 @@ footer {
 }
 
 .slogan span {
-  font-family: 'suit', sans-serif;
   font-weight: 500;
   font-size: 18px;
   color: #999;
@@ -300,7 +297,6 @@ footer {
 }
 
 .links a {
-  font-family: 'suit', sans-serif;
   color: #999;
   font-size: 18px;
   transition: 0.3s;

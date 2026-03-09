@@ -39,7 +39,6 @@
 }
 
 .hero-title {
-  font-family: 'Cormorant Garamond', serif;
   font-size: 60px;
   color: #fff;
   font-weight: 300;
@@ -54,7 +53,6 @@
   background: rgba(17,17,17,0.4);
   border: 2px solid #ffffff;
   color: #fff;
-  font-family: 'Montserrat', sans-serif;
   font-size: 14px;
   letter-spacing: 2px;
   cursor: pointer;
@@ -82,7 +80,6 @@
 }
 
 .section-title {
-  font-family: 'Cormorant Garamond', serif;
   font-size: 40px;
   color: #111111;
   font-weight: 400;
@@ -138,7 +135,6 @@
   z-index: 2;
   font-size: 34px;
   color: #fff;
-  font-family: 'Cormorant Garamond', serif;
   font-weight: 300;
   letter-spacing: 3px;
   transition: font-size 0.3s ease, transform 0.3s ease;
@@ -160,7 +156,6 @@
 }
 
 .section-title-left {
-  font-family: 'Cormorant Garamond', serif;
   font-size: 40px;
   color: #111111;
   font-weight: 400;
@@ -319,7 +314,6 @@
 }
 
 .collection-label {
-  font-family: 'Cormorant Garamond', serif;
   font-size: 40px;
   color: #111111;
   font-weight: 400;
@@ -327,7 +321,6 @@
 }
 
 .collection-name {
-  font-family: 'Cormorant Garamond', serif;
   font-size: 34px;
   color: #111111;
   font-weight: 400;
@@ -354,7 +347,6 @@
   background: rgba(17,17,17,0.4);
   border: 2px solid #ffffff;
   color: #fff;
-  font-family: 'Montserrat', sans-serif;
   font-size: 14px;
   letter-spacing: 2px;
   cursor: pointer;
@@ -464,7 +456,6 @@
 }
 
 .promo-main {
-  font-family: 'Cormorant Garamond', serif;
   font-size: 38px;
   color: #fff;
   font-weight: 400;
@@ -493,7 +484,6 @@ footer {
 }
 
 .footer-logo {
-  font-family: 'Montserrat', sans-serif;
   font-size: 34px;
   color: #333333;
   font-weight: 600;

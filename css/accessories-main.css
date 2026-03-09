@@ -423,6 +423,7 @@
 /* ===== SECTION 5 - PROMOTION ===== */
 .section-promo {
   margin-top: 160px;
+  margin-bottom: 180px;
 }
 
 .section-promo-inner {
@@ -478,76 +479,3 @@
   margin-top: 16px;
   font-weight: 300;
 }
-
-/* ===== FOOTER ===== */
-.footer-spacer { height: 180px; }
-
-footer {
-  width: 100%;
-  min-width: 1200px;
-  height: 257px;
-  background: #F8F8F8;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  position: relative;
-}
-
-.footer-logo {
-  font-size: 34px;
-  color: #333333;
-  font-weight: 600;
-  letter-spacing: 4px;
-  margin-top: 41px;
-}
-
-.footer-tagline {
-  font-size: 18px;
-  color: #999999;
-  margin-top: 36px;
-  letter-spacing: 0.3px;
-}
-
-.footer-menu {
-  display: flex;
-  gap: 16px;
-  margin-top: 36px;
-  list-style: none;
-}
-
-.footer-menu a {
-  font-size: 18px;
-  color: #999999;
-}
-
-.footer-menu .highlight {
-  color: #333333;
-  font-weight: 700;
-}
-
-.footer-copy {
-  font-size: 18px;
-  color: #999999;
-  margin-top: 22px;
-}
-
-.footer-icons {
-  position: absolute;
-  top: 19px;
-  right: calc(50% - 361px);
-  transform: translateX(100%);
-  display: flex;
-  gap: 30px;
-  align-items: center;
-}
-
-.footer-icons svg {
-  width: 22px;
-  height: 22px;
-  stroke: #666;
-  fill: none;
-  cursor: pointer;
-  transition: stroke 0.2s;
-}
-
-.footer-icons svg:hover { stroke: #111; }
